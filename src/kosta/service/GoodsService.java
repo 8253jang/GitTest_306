@@ -9,4 +9,8 @@ public class GoodsService {
 	   System.out.println("select추가..");
 	   System.out.println("시니리오 3번 test");
    }
+   
+   public void update() {
+	   System.out.println("local에서 update 수정");
+   }
 }
