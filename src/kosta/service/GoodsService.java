@@ -9,6 +9,10 @@ public class GoodsService {
 	   System.out.println("select추가..");
 	   System.out.println("시니리오 3번 test");
    }
+   
+   public void test() {
+	   System.out.println("강의장 수정");
+   }
 
    
    public void update() {
